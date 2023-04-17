@@ -1,0 +1,13 @@
+# ninja log v5
+1	306	6950636790118013	CMakeFiles/project_2.dir/main.cpp.obj	7c2de171667c18cc
+296	372	6951707459140534	project_2.exe	e8de5dbd38b7742d
+0	125	6951747637907616	build.ninja	9f9f59a3c326dcb4
+3	296	6951707458400370	CMakeFiles/project_2.dir/src/main.cpp.obj	4d5d4de314008bf0
+2	333	6951704008664864	CMakeFiles/project_2.dir/src/content/Product.cpp.obj	987378bde83a1aef
+3	329	6951773642144126	CMakeFiles/project_2.dir/src/main.cpp.obj	4d5d4de314008bf0
+9	395	6951773642804276	CMakeFiles/project_2.dir/src/content/ShoppingCart.cpp.obj	f2043c04fc084d5c
+3	323	6951774123549848	CMakeFiles/project_2.dir/src/main.cpp.obj	4d5d4de314008bf0
+3	298	6951781362926358	CMakeFiles/project_2.dir/src/content/Product.cpp.obj	987378bde83a1aef
+6	315	6951782469824737	CMakeFiles/project_2.dir/src/content/Product.cpp.obj	987378bde83a1aef
+3	322	6951782469894751	CMakeFiles/project_2.dir/src/main.cpp.obj	4d5d4de314008bf0
+8	376	6951782470424859	CMakeFiles/project_2.dir/src/content/ShoppingCart.cpp.obj	f2043c04fc084d5c

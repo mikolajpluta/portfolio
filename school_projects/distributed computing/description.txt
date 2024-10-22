@@ -1,0 +1,7 @@
+Zabawa w zabijanie
+W pewnej uczelni studenci zaczęli się bawić w zabójców i ofiary. 
+Na początku każdego cyklu student wybiera/losuje rolę, następnie dobiera się w parę z ofiarą. 
+Zabójca ubiega się o jeden z nierozróżnialnych P pistoletów na farbę. 
+Następnie zabójca próbuje "zabić" ofiarę, a ofiara próbuje go uniknąć. 
+Jednoznacznie należy rozstrzygnąć, jak skończył się dany cykl. Po X cyklach należy wyłonić zwycięzcę, 
+po czym zabawa zaczyna się od nowa.

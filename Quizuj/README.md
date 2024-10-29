@@ -48,6 +48,7 @@ Wykorzystane technologie:
  - Websockets
  - MongoDB
  - Python
+ - Git
 
 ## Zakres prac
 Zakres pracy obejmował nie tylko wytworzenie systemu, ale również pełną konfigurację środowiska końcowego, w tym:<br>

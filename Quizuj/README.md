@@ -4,7 +4,7 @@ W jej skład wchodzi szereg aplikacji mających na celu nie tylko wywołanie wra
 całość wykonywana była w dwuosobowym zespole.
 
 ## Demo
-Poniżej znajdują się linki do filmów z prezentacją części możliwości systemu, ze względu na to, że gra nie została jeszcze uruchomiona są to tylko przykładowe materiały nagrane w środowisku testowym. Materiały audiowizualne są w większosci przykładowe i mogą być niespójne z treścią.
+Poniżej znajdują się linki do filmów z prezentacją części możliwości systemu, ze względu na to, że gra nie została jeszcze uruchomiona są to tylko przykładowe materiały nagrane w środowisku testowym. Materiały audiowizualne są w większosci przykładowe i mogą być niespójne z treścią.<br>
 [Przykładowa rozgrywka](https://drive.google.com/file/d/1PuAiMXAukl8R1tOKSpCVBrLW_-XguNG0/view?usp=sharing)<br>
 [Prezentacja panelu administracyjnego](https://drive.google.com/file/d/1rx1je96pVc3pkTb6nU1PKGjGBas5di4z/view?usp=sharing)
 
